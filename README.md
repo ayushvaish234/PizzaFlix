@@ -1,4 +1,4 @@
-# 🍕 PizzaFlix
+# PizzaFlix
 
 Welcome to **PizzaFlix** – a sleek and modern pizza ordering website where users can explore delicious pizzas, add them to their cart, and place an order seamlessly!
 
@@ -19,7 +19,7 @@ Welcome to **PizzaFlix** – a sleek and modern pizza ordering website where use
 
 ## 📸 Screenshots
 
-![PizzaFlix Preview](images/screenshot.png)
+![PizzaFlix Preview](images/screenshots.png)
 
 ## 📦 Installation & Setup
 
