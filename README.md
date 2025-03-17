@@ -19,7 +19,7 @@ Welcome to **PizzaFlix** – a sleek and modern pizza ordering website where use
 
 ## 📸 Screenshots
 
-![PizzaFlix Preview](images/screenshots.png)
+![PizzaFlix Preview](images/Screenshots.png)
 
 ## 📦 Installation & Setup
 
